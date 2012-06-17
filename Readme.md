@@ -1,6 +1,7 @@
 # BCIT Games Development Club Solar project specification
 
-Project start date: Sat 16 Jun 2012 19:32:48 PDT
+Project start date: Sat 16 Jun 2012 19:32:48 PDT.
+Project end date: Six week deadline from June 12 which is July 12, 2012 PDT.
 
 The story of the game is simply:
 
